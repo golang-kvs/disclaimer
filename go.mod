@@ -1,4 +1,4 @@
-module github.com/golang-kvs/disclaimer
+module github.com/golang-kvs/disclaimers
 
 go 1.22.2
 

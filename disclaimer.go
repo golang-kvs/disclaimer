@@ -1,4 +1,4 @@
-package disclaimer
+package disclaimers
 
 import (
 	"fmt"
